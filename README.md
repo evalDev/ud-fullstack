@@ -2,7 +2,7 @@
 
 This is my attempt at the [FullStak Nanodegree](://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004#)
 
-I did have a cheeky little look at the projects during the 7 day trial but the project descriptions should on Udacity should be enough to mockup your own related projects 
+I did have a cheeky little look at the projects during the 7 day trial but the project descriptions on Udacity should be enough to mockup your own related projects 
 
 ## Free Course Syllabus
 
