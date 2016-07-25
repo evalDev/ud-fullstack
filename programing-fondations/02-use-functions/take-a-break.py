@@ -1,6 +1,8 @@
 import time
 import webbrowser
 
-for iter in range(3):
+breaks = 3
+for iter in range(breaks):
     time.sleep(10)
-    webbrowser.open("https://youtu.be/UmO9LmvLVyM")
+    print "This is break number", iter + 1, "of", breaks 
+   # webbrowser.open("https://youtu.be/UmO9LmvLVyM")
